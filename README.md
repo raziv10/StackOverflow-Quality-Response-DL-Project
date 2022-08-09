@@ -1,4 +1,4 @@
-# Machine learning TDT4173
+# Machine learning 
 A quick demo of the Recurrent Neural Network-model using LSTM is available at https://tdt4173-project-sl-1.web.app/, alongside a decription and information about all the methods used in this project. 
 
 ## Running the models
